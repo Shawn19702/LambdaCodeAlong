@@ -1,0 +1,16 @@
+The Lambda expression implements the functional interface
+A functional interface has one abstract method
+The action you want the lambda you want to do comes after the arrow
+Have to use get method to print lambda
+Consumer interface has a accept method to print
+There are more than 40 interfaces in the java.until.function package including supplier, function, consumer, and predicate
+Supplier doesn't take in any agreements
+Consumer has a parameter of an object it is going to consume
+Predicate returns a boolean and tests a object in parameters
+Function takes in a object and returns a object of another type for example taking in a user and returning its name
+Remove if method takes in a predicate as a parameter
+For each takes in a consumer as a parameter
+Comparators can be used with lambda using the compare method
+Intsupplier returns the result of an an int type
+Multiple lambdas can be chained together
+
